@@ -4,8 +4,8 @@
 ##### 1. proto-interface 
 Contains protobuf files which will be used by grpc-client and servers.
 
-#### 2. grpc-client
-#### 3. grpc-server
+##### 2. grpc-client
+##### 3. grpc-server
 
 
 
